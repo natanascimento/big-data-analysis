@@ -1,0 +1,1 @@
+# Notebooks utilizados para desenvolver a análise de risco de crédito
