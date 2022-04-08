@@ -1,0 +1,1 @@
+# Plataforma para acessar o questionários sobre seu score
