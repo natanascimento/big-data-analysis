@@ -2,9 +2,9 @@
 name = "credit-risk-analysis"
 version = "0.1.0"
 description = "Analysing and predicting credit risk for credit company"
-authors = ["Alisson Felipe <alisson.fsantos@souunit.com.br>",
+authors = ["Alisson Felipe <alisson.flima@souunit.com.br>",
            "Natan Nascimento <natan.oliveira@souunit.com.br>",
-           "Natalia Fonseca <natalia.fonseca@souunit.com.br>"]
+           "Natalia Fonseca <natalia.braga@souunit.com.br>"]
 packages = [
     { include = "app" }
 ]
